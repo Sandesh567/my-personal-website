@@ -13,8 +13,6 @@ a:hover {
   color: #006d77;
 }
 
-
-
 .nav-link:hover {
   color: #006d77;
 }
@@ -73,7 +71,7 @@ a:hover {
   font-weight: 900;
   color: #edf6f9;
   font-size: 300px;
-  margin-left: -60px;
+  margin-left: 9px;
 }
 
 .skills-cont {
@@ -102,7 +100,7 @@ a:hover {
   font-weight: 900;
   color: #edf6f9;
   font-size: 300px;
-  margin-right: -60px;
+  margin-right: 185px;
 }
 
 .about-cont {
@@ -114,7 +112,7 @@ a:hover {
   font-weight: 900;
   color: #edf6f9;
   font-size: 300px;
-  margin-left: -60px;
+  margin-left: -13px;
 }
 
 .about-text {
@@ -130,7 +128,7 @@ a:hover {
   font-weight: 900;
   color: #edf6f9;
   font-size: 300px;
-  margin-right: -60px;
+  margin-right: -35px;
 }
 
 .contact-text {
@@ -221,8 +219,8 @@ a:hover {
 
 .codecast-text {
   font-family: "Permanent Marker", cursive;
-  font-size: 22px;
-  width: 300px;
+  font-size: 19px;
+  width: 296px;
   left: 100px;
   top: 330px;
 }
@@ -248,10 +246,6 @@ a:hover {
   height: 100%;
   top: 0;
   left: 0;
-}
-
-.small-show {
-  display: none !important;
 }
 
 .typing-wrapper {
@@ -325,11 +319,10 @@ a:hover {
 
 @media screen and (max-width: 940px) {
   .avatar {
-        right: -61px;
-        top: -133px;
-        width: 330px;
-        border-radius: 123px 35px 19px 85px;
-    }
+    right: -61px;
+    top: -133px;
+    width: 330px;
+    border-radius: 123px 35px 19px 85px;
   }
 
   .resp-heading {
@@ -342,11 +335,7 @@ a:hover {
   }
 
   .work-heading {
-    padding-top: 60px;
-  }
-
-  .small-hide {
-    display: none;
+    padding-top: 14px;
   }
 
   .small-show {
