@@ -109,18 +109,19 @@ a:hover {
 
 .about-heading {
   font-family: "Roboto", sans-serif;
-  font-weight: 900;
+  font-weight: 700;
   color: #edf6f9;
-  font-size: 300px;
+  font-size: 260px;
   margin-left: -13px;
 }
 
 .about-text {
-  padding-left: 80px;
+  padding-left: 45px;
   font-family: "Roboto", sans-serif;
-  max-width: 60%;
+  max-width: 40%;
   font-weight: 300;
   font-size: 32px;
+  text-align: justify;
 }
 
 .contact-heading {
@@ -128,7 +129,7 @@ a:hover {
   font-weight: 900;
   color: #edf6f9;
   font-size: 300px;
-  margin-right: -35px;
+  margin-right: -37px;
 }
 
 .contact-text {
@@ -152,10 +153,10 @@ a:hover {
 }
 
 .avatar {
-  width: 400px;
-  right: -61px;
+  width: 300px;
+  right: -17px;
   top: 20px;
-  border-radius: 123px 35px 19px 85px;
+  border-radius: 20px 132px 124px 193px;
 }
 
 .btn {
@@ -198,9 +199,9 @@ a:hover {
 
 .tutorial-arrow {
   height: 130px;
-  right: 20px;
-  bottom: -10px;
-  transform: rotate(-47.58deg);
+  right: 34px;
+  bottom: -90px;
+  transform: rotate(69deg);
 }
 
 .tutorial-btn-arrow {
@@ -287,7 +288,7 @@ a:hover {
 
 @media screen and (max-width: 1300px) {
   .avatar {
-    width: 500px;
+    width: 300px;
   }
 
   .resp-heading {
@@ -321,7 +322,7 @@ a:hover {
   .avatar {
     right: -61px;
     top: -133px;
-    width: 330px;
+    width: 300px;
     border-radius: 123px 35px 19px 85px;
   }
 
